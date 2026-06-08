@@ -1,0 +1,2 @@
+Fui criado utilizando fs.writeFile
+Sou uma edição do arquivo usando appendFile
